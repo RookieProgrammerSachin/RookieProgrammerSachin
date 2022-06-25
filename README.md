@@ -11,7 +11,7 @@
     - Storage: 500GB HDD
     - Display: 15.6in 1366x768
  - 🎮 All time favorite game: Grand Theft Auto: San Andreas
- - Skill leves:
+ - Skill levels:
     - Front-end dev: Beginner
     - Python: Intermediate
     - C: Beginner
