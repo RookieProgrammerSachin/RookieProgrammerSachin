@@ -1,18 +1,19 @@
 - 👋 Hi, I’m @RookieProgrammerSachin ... Real Name: Sachin Sharon
-- 👀 I’m interested in ... Front-end web development, Python programming, C programming, 3D rendering(Blender 3D)
-- 🌱 I’m currently learning ... Front-end web development with HTML5, CSS3, JS
+- 👀 I’m interested in ... Full-stack web development, Python programming, C programming, 3D rendering(Blender 3D)
+- 🌱 I’m currently learning ... Full-stack web development with HTML5, CSS3, JS and ReactJS
 - 📫 How to reach me ... just drop a message to sreesachin11226@gmail.com
 - Personal info:
 - 💻 Laptop specifications: 
     - HP Notebook 15
     - CPU: Intel Pentium N3530
-    - GPU: Intel(R) HD graphics(integrated)
+    - GPU: Intel(R) HD graphics (integrated)
     - RAM: 4GB DDR3L 1333 MHz
-    - Storage: 500GB HDD
+    - Storage: Seagate 500GB HDD
     - Display: 15.6in 1366x768
  - 🎮 All time favorite game: Grand Theft Auto: San Andreas
  - Skill levels:
-    - Front-end dev: Beginner
+    - Front-end dev: Intermediate
+    - Back-end dev: Beginner - Intermediate
     - Python: Intermediate
     - C: Beginner
     - 3D rendering: Intermediate - Advanced
