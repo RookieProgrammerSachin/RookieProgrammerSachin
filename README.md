@@ -4,16 +4,16 @@
 - 📫 How to reach me ... just drop a message to sreesachin11226@gmail.com
 - Personal info:
 - 💻 Laptop specifications: 
-    - HP Notebook 15
-    - CPU: Intel Pentium N3530
-    - GPU: Intel(R) HD graphics (integrated)
-    - RAM: 4GB DDR3L 1333 MHz
-    - Storage: Seagate 500GB HDD
-    - Display: 15.6in 1366x768
+    - Lenovo IdeaPad Gaming 3
+    - CPU: AMD Ryzen 5 5600H
+    - GPU: NVIDIA RTX 3050 Mobile
+    - RAM: 8GB DDR4 @3200MHz
+    - Storage: Samsung nVME SSD 500GB
+    - Display: 15.6in FHD
  - 🎮 All time favorite game: Grand Theft Auto: San Andreas
  - Skill levels:
-    - Front-end dev: Intermediate
-    - Back-end dev: Beginner - Intermediate
+    - Front-end dev: Intermediate - Advanced
+    - Back-end dev: Intermediate - Advanced
     - Python: Intermediate
     - C: Beginner
     - 3D rendering: Intermediate - Advanced
